@@ -1,0 +1,1 @@
+-- PURPOSE: Provide a SELECT statement to retrieve the first 10 records from the raw_orders table in the source database.
