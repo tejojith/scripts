@@ -1,0 +1,1 @@
+SELECT * FROM target_database.sales_orders LIMIT 10
