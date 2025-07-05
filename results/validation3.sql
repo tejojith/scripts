@@ -1,0 +1,1 @@
+To generate a valid, executable SQL query for the given input, we need to understand the context and the requested output.
