@@ -1,0 +1,2 @@
+SELECT DISTINCT customer_name, customer_email
+FROM source_db.raw_orders
