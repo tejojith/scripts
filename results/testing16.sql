@@ -1,0 +1,1 @@
+SELECT * FROM target_database.customers WHERE email IS NULL OR phone IS NULL
