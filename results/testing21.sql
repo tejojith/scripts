@@ -1,0 +1,1 @@
+SELECT * FROM target_db.products WHERE product_id IS NULL
