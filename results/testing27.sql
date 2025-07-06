@@ -1,1 +1,1 @@
-SELECT * FROM target_database.customers
+SELECT * FROM target_db.customers
