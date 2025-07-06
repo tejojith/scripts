@@ -1,1 +1,1 @@
-SELECT * FROM target_database.sales_orders LIMIT 10
+SELECT TOP(10) * FROM source_db.raw_orders
