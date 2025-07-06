@@ -1,0 +1,1 @@
+SELECT * FROM source_database.raw_products LIMIT 100
